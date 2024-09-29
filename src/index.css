@@ -8,3 +8,10 @@ body{
   font-family: 'poppins';
 
 }
+
+@media screen and (max-width: 768px){
+  body{
+    background: none;
+    border-radius: none;
+  }
+}
